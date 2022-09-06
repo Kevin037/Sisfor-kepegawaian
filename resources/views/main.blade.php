@@ -1,0 +1,6 @@
+@include('head')
+@yield('sidebar')
+@yield('isi')
+@include('modal_izin')
+@include('foot')
+@yield('fot_dinamis')
